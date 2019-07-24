@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "i2c_scanner", "i2c_scanner\i2c_scanner.vcxproj", "{69530252-D500-4BBB-BA1B-8EF3F2939B31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Release|ARM = Release|ARM
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69530252-D500-4BBB-BA1B-8EF3F2939B31}.Debug|ARM.ActiveCfg = Debug|ARM
+		{69530252-D500-4BBB-BA1B-8EF3F2939B31}.Debug|ARM.Build.0 = Debug|ARM
+		{69530252-D500-4BBB-BA1B-8EF3F2939B31}.Release|ARM.ActiveCfg = Release|ARM
+		{69530252-D500-4BBB-BA1B-8EF3F2939B31}.Release|ARM.Build.0 = Release|ARM
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FED7D18-524B-42B4-9FE0-D88734CC56BD}
+	EndGlobalSection
+EndGlobal

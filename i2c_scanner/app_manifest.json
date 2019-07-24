@@ -1,0 +1,15 @@
+{
+  "SchemaVersion": 1,
+  "Name" : "i2c_scanner",
+  "ComponentId" : "cf35533e-2838-4c32-9966-9c7efec9440c",
+  "EntryPoint": "/bin/app",
+  "CmdArgs": [],
+    "Capabilities": {
+        "AllowedConnections": [],
+        "Gpio": [],
+        "I2cMaster": [ "$PROJECT_ISU2_I2C" ],
+        "Uart": [],
+        "WifiConfig": false
+    },
+  "ApplicationType":"Default"
+}
