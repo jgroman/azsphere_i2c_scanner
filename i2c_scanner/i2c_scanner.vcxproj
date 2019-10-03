@@ -44,9 +44,6 @@
     <ClCompile Include="main.c" />
     <UpToDateCheckInput Include="app_manifest.json" />
   </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="applibs_versions.h" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets" />
   <ItemDefinitionGroup>

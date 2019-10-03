@@ -20,9 +20,4 @@
     </ClCompile>
     <UpToDateCheckInput Include="app_manifest.json" />
   </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="applibs_versions.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-  </ItemGroup>
 </Project>
