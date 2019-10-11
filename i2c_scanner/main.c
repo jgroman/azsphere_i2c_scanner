@@ -19,7 +19,7 @@
 #define ENABLE_SCAN_BUS_SPEED_1M
 
 // I2C BUS timeout in milliseconds
-#define I2C_BUS_TIMEOUT_MS      500
+#define I2C_BUS_TIMEOUT_MS      100
 
 // Strings to show detection status. Must be two chars plus trailing space
 #define STR_NO_DETECTION    ".. "
